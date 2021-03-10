@@ -23,9 +23,9 @@ After adding first Supllier|  Store Supllier Add New Again
 ![Homepage](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_7_StoreSupllier.png)  |  ![LoginPage](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_8_StoreSupllierNew.png)
 
 After adding Second Supllier|  Add Brand
-:-------------------------:|:-------------------------:
+:--------------------------:|:-------------------------:
 ![Registration](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_9_StoreSupllier.png)  |  ![StoreStock](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_10_StoreBrandNew.png)
 
-Brands List              |  Add New Item Catagory Based
+Brands List                |  Add New Item Catagory Based
 :-------------------------:|:-------------------------:
 ![StoreSupplier](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_11_StoreBrand.png)  |  ![StoreSupllierNew](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_12_StoreCatNew.png)
