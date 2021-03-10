@@ -6,15 +6,15 @@ A Supershop Database Management system with maximum SQL query operation to handl
 
 ## Details Screensort is given below'
 
-Homepage                   |  LoginPage
+Home page                  |  Login Page
 :-------------------------:|:-------------------------:
 ![Homepage](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_1_HomePage.png)  |  ![LoginPage](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_2_LoginPage.png)
 
-Registration               |  StoreStock
+Registration Page          |  StoreStock
 :-------------------------:|:-------------------------:
 ![Registration](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_3_Registration.png)  |  ![StoreStock](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_4_StoreStock.png)
 
-Store Supplier             |  Store Supllier Add New
+Store Supplier Page        |  Store Supllier Add New
 :-------------------------:|:-------------------------:
 ![StoreSupplier](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_5_StoreSupplier.png)  |  ![StoreSupllierAddNew](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_6_StoreSupllierNew.png)
 
