@@ -4,7 +4,7 @@
 
 A Supershop Database Management system with maximum SQL query operation to handle all necessary tasks to manage a Large Super Shop with maximum number of customers. Java is used to make a beautiful UI to handle all query operations easily.
 
-## Details Screensort is given below'
+## Details Screensort is given below
 
 Home page                  |  Login Page
 :-------------------------:|:-------------------------:
@@ -29,3 +29,15 @@ After adding Second Supllier|  Add Brand
 Brands List                |  Add New Item Catagory Based
 :-------------------------:|:-------------------------:
 ![StoreSupplier](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_11_StoreBrand.png)  |  ![StoreSupllierNew](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_12_StoreCatNew.png)
+
+Item List Based on Catagory |  Add Unit
+:--------------------------:|:-------------------------:
+![Homepage](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_13_StoreCat.png)  |  ![LoginPage](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_14_StoreUnit.png)
+
+Unit List	            |  Add Return Marcendising Aut.
+:--------------------------:|:-------------------------:
+![Registration](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_15_StoreUnit.png)  |  ![StoreStock](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_16_StoreRMANew.png)
+
+Add new Product               |  Stock Summury
+:-------------------------:|:-------------------------:
+![StoreSupplier](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_17_StoreProductNew.png)  |  ![StoreSupllierNew](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_18_StoreProduct.png)
