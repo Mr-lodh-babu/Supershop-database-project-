@@ -10,4 +10,11 @@ Homepage                   |  LoginPage
 :-------------------------:|:-------------------------:
 ![Homepage](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_1_HomePage.png)  |  ![LoginPage](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_2_LoginPage.png)
 
+Registration                   |  StoreStock
+:-------------------------:|:-------------------------:
+![Registration](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_3_Registration.png)  |  ![StoreStock](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_4_StoreStock.png)
+
+StoreSupplier                  |  StoreSupllierNew
+:-------------------------:|:-------------------------:
+![StoreSupplier](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_5_StoreSupplier.png)  |  ![StoreSupllierNew](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_6_StoreSupllierNew.png)
 
