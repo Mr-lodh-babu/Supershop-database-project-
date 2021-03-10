@@ -6,8 +6,8 @@ A Supershop Database Management system with maximum SQL query operation to handl
 
 ## Details Screensort is given below'
 
-Homepage             |  LoginPage
-:-------------------:|:-------------------------:
+       Homepage            |  LoginPage
+:-------------------------:|:-------------------------:
 ![Homepage](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_1_HomePage.png)  |  ![LoginPage](https://github.com/Shawon-Lodh/Supershop-Management-System/blob/master/Overview_screensort/Image_no_2_LoginPage.png)
 
 
